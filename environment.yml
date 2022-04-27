@@ -1,0 +1,17 @@
+name: iot-hunters
+dependencies:
+    - fsspec
+    - ipykernel
+    - ipywidgets
+    - jupyterlab
+    - matplotlib
+    - numpy
+    - pip
+    - python>=3.7
+    - scipy
+    - setuptools
+    - tqdm
+    - wheel
+    - pip:
+        - adlfs
+        - python-dotenv
